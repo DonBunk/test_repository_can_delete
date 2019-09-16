@@ -1,1 +1,1 @@
-This is a new file on the server/ desktop. 
+This another new thing from the desktop. 
